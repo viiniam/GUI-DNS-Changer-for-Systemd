@@ -1,4 +1,4 @@
-# 🔧 DNS Changer - Systemd GUI Manager
+# 🔧🐧 GUI-DNS-Changer-for-Systemd
 
 A lightweight GUI application for managing DNS settings on **systemd-based GNU/Linux distributions**. Built with Python and CustomTkinter for an intuitive dark/light mode interface.
 
